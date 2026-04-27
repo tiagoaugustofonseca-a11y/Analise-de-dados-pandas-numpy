@@ -53,7 +53,7 @@ print(f"Faturamento Potencial Bruto: ${df['potencialBruto'].sum():.2f}")
 
 # Gráfico Faturamento Bruto por Categoria
 Faturamento_bruto = df.groupby(df['category'])['potencialBruto'].sum().sort_values(ascending=False)
-criar_grafico(Faturamento_bruto, tipo='barh', titulo='Faturamento Bruto por Categoria', xlabel='Faturamento Bruto', ylabel='Categoria')
+criar_grafico(Faturamento_bruto, tipo='pie', titulo='Faturamento Bruto por Categoria', xlabel='', ylabel='')
 
 # Potencial líquido
 df['potencialLiquido'] = df['potencialBruto'] * (1 - df['discountPercentage'] / 100)
