@@ -82,4 +82,4 @@ Ou abra o `notebook.ipynb` no Jupyter para a versão documentada.
 ## 👤 Autor
 
 **Tiago Augusto Fonseca**
-[LinkedIn](www.linkedin.com/in/tiago-augusto-fonseca-ab67b6371) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](www.linkedin.com/in/tiago-augusto-fonseca-ab67b6371) • [GitHub](https://github.com/tiagoaugustofonseca-a11y)
