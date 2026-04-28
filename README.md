@@ -74,8 +74,8 @@ Ou abra o `notebook.ipynb` no Jupyter para a versão documentada.
 
 ## 💡 Principais insights
 
-- A categoria com maior faturamento bruto nem sempre é a com maior faturamento líquido — descontos elevados invertem o ranking.
-- Categorias com melhor avaliação média não são necessariamente as com maior desconto, sugerindo que qualidade percebida e promoção são estratégias distintas.
+- A categoria com maior faturamento bruto nem sempre é a com maior faturamento líquido (apesar de não se aplicar ao exemplo) — descontos elevados mudam o ranking.
+- Categorias com melhor avaliação média não são necessariamente as com maior desconto e nem as mais vendidas, sugerindo que qualidade percebida e promoção são estratégias distintas.
 
 ---
 
